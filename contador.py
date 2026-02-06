@@ -22,4 +22,3 @@ while contador <=10:
     while contador <=10: 
         print(tabuada, "x", contador, "=", contador * tabuada)
         contador +=1
-
